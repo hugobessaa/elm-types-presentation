@@ -188,5 +188,6 @@ Da próxima vez que estiver definindo os estados da sua aplicação:
 - Evite tipos espalhados em duas chaves de um Record
 - Verifique se o `Maybe` realmente expressa a realidade do seu estado
 
+Referência: [Make Impossible States Impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8)
 
 Obrigado!
