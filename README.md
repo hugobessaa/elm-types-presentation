@@ -59,7 +59,7 @@ type alias Contact = {
 ```
 
 
-Renderizar corretamente dad qualquer combinação de estados
+Renderizar corretamente dada qualquer combinação de estados
 é muito importante para manter sua UI estável e funcionando.
 
 
@@ -162,7 +162,7 @@ Bom, isso já ajuda, mas existem outros estados em vez de
 apenas `Nothing`.
 
 ```elm
-type RemoteDate error a
+type RemoteData error a
   = NotAsked
   | Loading
   | Failure error
